@@ -1,0 +1,36 @@
+{
+  "tools": [
+    { "name": "ChatGPT", "desc": "OpenAI 出品的对话 AI，通用助手", "url": "https://chatgpt.com", "pricing": "免费 + Plus $20/月", "tags": ["对话", "写作"] },
+    { "name": "Claude", "desc": "Anthropic 出品的对话 AI，长文本与代码能力强", "url": "https://claude.ai", "pricing": "免费 + Pro $20/月", "tags": ["对话", "编程"] },
+    { "name": "Gemini", "desc": "Google 多模态 AI，与安卓生态深度集成", "url": "https://gemini.google.com", "pricing": "免费 + Advanced", "tags": ["对话", "多模态"] },
+    { "name": "Kimi", "desc": "月之暗面出品，长文本处理见长", "url": "https://kimi.moonshot.cn", "pricing": "免费", "tags": ["对话", "长文本"] },
+    { "name": "豆包", "desc": "字节跳动出品，中文对话与全能助手", "url": "https://www.doubao.com", "pricing": "免费", "tags": ["对话"] },
+    { "name": "DeepSeek", "desc": "深度求索出品，开源模型 + 免费网页版", "url": "https://chat.deepseek.com", "pricing": "免费", "tags": ["对话", "开源"] },
+    { "name": "Cursor", "desc": "AI-first 代码编辑器，基于 VS Code", "url": "https://cursor.com", "pricing": "免费 + Pro $20/月", "tags": ["编程"] },
+    { "name": "GitHub Copilot", "desc": "GitHub 官方 AI 编程助手", "url": "https://github.com/features/copilot", "pricing": "$10/月 起", "tags": ["编程"] },
+    { "name": "Claude Code", "desc": "Anthropic 官方终端 AI 编程助手", "url": "https://www.anthropic.com/claude-code", "pricing": "按量计费", "tags": ["编程", "Agent"] },
+    { "name": "Midjourney", "desc": "顶级 AI 绘画，艺术感强", "url": "https://www.midjourney.com", "pricing": "$10/月 起", "tags": ["绘画"] },
+    { "name": "即梦", "desc": "字节跳动 AI 绘画/视频工具，中文友好", "url": "https://jimeng.jianying.com", "pricing": "免费 + 会员", "tags": ["绘画", "视频"] },
+    { "name": "剪映", "desc": "字节出品视频剪辑，内置 AI 字幕/配音/剪辑", "url": "https://www.capcut.cn", "pricing": "免费 + 会员", "tags": ["视频"] },
+    { "name": "Notion AI", "desc": "Notion 内置 AI 写作与知识管理", "url": "https://www.notion.so/product/ai", "pricing": "按量计费", "tags": ["写作", "效率"] },
+    { "name": "Perplexity", "desc": "AI 搜索引擎，带引用的实时问答", "url": "https://www.perplexity.ai", "pricing": "免费 + Pro", "tags": ["搜索"] }
+  ],
+  "models": [
+    { "name": "GPT-5", "desc": "OpenAI 旗舰模型", "url": "https://openai.com", "pricing": "API 按量", "tags": ["通用"] },
+    { "name": "Claude Opus", "desc": "Anthropic 旗舰，推理与 Agent 能力强", "url": "https://www.anthropic.com", "pricing": "API 按量", "tags": ["通用", "Agent"] },
+    { "name": "Gemini 系列", "desc": "Google 多模态模型，上下文窗口大", "url": "https://deepmind.google", "pricing": "API 按量", "tags": ["多模态"] },
+    { "name": "DeepSeek V 系列", "desc": "深度求索开源模型，性价比极高", "url": "https://github.com/deepseek-ai", "pricing": "开源免费", "tags": ["开源"] },
+    { "name": "Qwen 通义千问", "desc": "阿里开源模型家族，中文能力强", "url": "https://qwenlm.github.io", "pricing": "开源免费", "tags": ["开源", "中文"] },
+    { "name": "Llama", "desc": "Meta 开源模型，生态最丰富", "url": "https://llama.meta.com", "pricing": "开源免费", "tags": ["开源"] },
+    { "name": "Kimi K 系列", "desc": "月之暗面模型，长上下文见长", "url": "https://www.moonshot.cn", "pricing": "API 按量", "tags": ["长文本"] },
+    { "name": "GLM 智谱", "desc": "智谱 AI 模型，国产老牌", "url": "https://www.zhipuai.cn", "pricing": "API 按量", "tags": ["中文"] }
+  ],
+  "agents": [
+    { "name": "Manus", "desc": "通用 AI Agent，能独立完成复杂任务", "url": "https://manus.im", "pricing": "邀请/付费", "tags": ["通用"] },
+    { "name": "Devin", "desc": "AI 软件工程师，自主完成开发任务", "url": "https://devin.ai", "pricing": "付费", "tags": ["编程"] },
+    { "name": "AutoGPT", "desc": "经典开源自主 Agent 框架", "url": "https://github.com/Significant-Gravitas/AutoGPT", "pricing": "开源", "tags": ["框架"] },
+    { "name": "LangChain", "desc": "最流行的 LLM 应用/Agent 开发框架", "url": "https://www.langchain.com", "pricing": "开源", "tags": ["框架"] },
+    { "name": "Dify", "desc": "开源 LLM 应用开发平台，可视化编排", "url": "https://dify.ai", "pricing": "开源 + 云版", "tags": ["平台"] },
+    { "name": "Coze 扣子", "desc": "字节出品 Agent/Bot 搭建平台", "url": "https://www.coze.cn", "pricing": "免费 + 付费", "tags": ["平台"] }
+  ]
+}
